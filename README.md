@@ -24,5 +24,5 @@ Planned upgrade: React, Node.js, Express, MongoDB
 A platform that puts people over algorithms, conscience over convenience, and connection over consumption.
 ✍️ Creator’s Note
 
-    “Bizarre Bazaar is not a an inspired website. It’s my reflection on how commerce should be — rooted in choice, trust, and shared community wisdom. It’s experimental, yes. But it's honest."
-    — Dhawal 
+“Bizarre Bazaar is not a an inspired website. It’s my reflection on how commerce should be — rooted in choice, trust, and shared community wisdom. It’s experimental, yes. But it's honest."
+ — Dhawal 
