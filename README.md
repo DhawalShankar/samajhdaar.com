@@ -10,7 +10,7 @@ Samajhdaar.com is a tech experiment that challenges the norms of hyper-convenien
     Products with the most support are made available to touch and feel at partnered local vendors. Experience before you buy — not just click and hope.
 
 🤝 Empowering Local Sellers
-    Rather than replacing them, Bizarre Bazaar integrates vendors as last-mile partners. A symbiosis of tech and tradition.
+    Rather than replacing them, Samajhdaar.com integrates vendors as last-mile partners. A symbiosis of tech and tradition.
 
 🧠 Intentional Shopping Journey
     Discourages impulsive consumerism. Encourages thoughtful selection, human interaction, and sustainable consumption.
