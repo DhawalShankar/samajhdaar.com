@@ -1,6 +1,6 @@
-🛒 Bizarre Bazaar – A Bold Reimagination of Modern Commerce
+🛒 Samajhdaar.com – A Bold Reimagination of Modern Commerce
 
-Bizarre Bazaar is a tech experiment that challenges the norms of hyper-convenient online shopping. It is not just a digital marketplace, but a community-aware commerce ecosystem — where discovery happens online, and trust is built offline.
+Samajhdaar.com is a tech experiment that challenges the norms of hyper-convenient online shopping. It is not just a digital marketplace, but a community-aware commerce ecosystem — where discovery happens online, and trust is built offline.
 🌟 Key Highlights
 
 🗳️ Vote-Driven Product Visibility
@@ -24,5 +24,5 @@ Planned upgrade: React, Node.js, Express, MongoDB
 A platform that puts people over algorithms, conscience over convenience, and connection over consumption.
 ✍️ Creator’s Note
 
-“Bizarre Bazaar is not a an inspired website. It’s my reflection on how commerce should be — rooted in choice, trust, and shared community wisdom. It’s experimental, yes. But it's honest."
+“Samajhdaar.com is not a an inspired website. It’s my reflection on how commerce should be — rooted in choice, trust, and shared community wisdom. It’s experimental, yes. But it's honest."
  — Dhawal 
