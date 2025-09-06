@@ -1,6 +1,7 @@
 🛒 Samajhdaar.com – A Bold Reimagination of Modern Commerce
 
 Samajhdaar.com is a tech experiment that challenges the norms of hyper-convenient online shopping. It is not just a digital marketplace, but a community-aware commerce ecosystem — where discovery happens online, and trust is built offline.
+<br>
 🌟 Key Highlights
 
 🗳️ Vote-Driven Product Visibility
